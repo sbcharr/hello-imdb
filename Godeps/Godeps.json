@@ -1,0 +1,27 @@
+{
+	"ImportPath": "github.com/user/hello",
+	"GoVersion": "go1.5",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Comment": "v1.1-4-gaed02d1",
+			"Rev": "aed02d124ae4a0e94fea4541c8effd05bf0c8296"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.1-13-g9fa818a",
+			"Rev": "9fa818a44c2bf1396a17f9d5a3c0f6dd39d2ff8e"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-83-g165a352",
+			"Rev": "165a3529e799da61ab10faed1fabff3662d6193f"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "go1.0-cutoff-83-g165a352",
+			"Rev": "165a3529e799da61ab10faed1fabff3662d6193f"
+		}
+	]
+}

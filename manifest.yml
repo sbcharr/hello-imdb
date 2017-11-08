@@ -1,0 +1,7 @@
+---
+applications:
+- name: hello-imdb-app
+  buildpack: go_buildpack
+  memory: 128M
+  path: .
+  stack: cflinuxfs2	
